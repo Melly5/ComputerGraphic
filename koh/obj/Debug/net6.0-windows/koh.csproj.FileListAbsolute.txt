@@ -1,0 +1,17 @@
+C:\Users\Melly\source\repos\koh\koh\bin\Debug\net6.0-windows\koh.exe
+C:\Users\Melly\source\repos\koh\koh\bin\Debug\net6.0-windows\koh.deps.json
+C:\Users\Melly\source\repos\koh\koh\bin\Debug\net6.0-windows\koh.runtimeconfig.json
+C:\Users\Melly\source\repos\koh\koh\bin\Debug\net6.0-windows\koh.dll
+C:\Users\Melly\source\repos\koh\koh\bin\Debug\net6.0-windows\koh.pdb
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.Form1.resources
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.AssemblyInfoInputs.cache
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.AssemblyInfo.cs
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.dll
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\refint\koh.dll
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.pdb
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\koh.genruntimeconfig.cache
+C:\Users\Melly\source\repos\koh\koh\obj\Debug\net6.0-windows\ref\koh.dll
