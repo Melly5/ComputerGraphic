@@ -1,0 +1,17 @@
+C:\Users\Melly\source\repos\4CGl\4CGl\bin\Debug\net6.0-windows\4CGl.exe
+C:\Users\Melly\source\repos\4CGl\4CGl\bin\Debug\net6.0-windows\4CGl.deps.json
+C:\Users\Melly\source\repos\4CGl\4CGl\bin\Debug\net6.0-windows\4CGl.runtimeconfig.json
+C:\Users\Melly\source\repos\4CGl\4CGl\bin\Debug\net6.0-windows\4CGl.dll
+C:\Users\Melly\source\repos\4CGl\4CGl\bin\Debug\net6.0-windows\4CGl.pdb
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\_4CGl.Form1.resources
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.AssemblyInfoInputs.cache
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.AssemblyInfo.cs
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.dll
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\refint\4CGl.dll
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.pdb
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\4CGl.genruntimeconfig.cache
+C:\Users\Melly\source\repos\4CGl\4CGl\obj\Debug\net6.0-windows\ref\4CGl.dll

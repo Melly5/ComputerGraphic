@@ -1,0 +1,17 @@
+C:\Users\Melly\source\repos\3-2D\3-2D\bin\Debug\net6.0-windows\3-2D.exe
+C:\Users\Melly\source\repos\3-2D\3-2D\bin\Debug\net6.0-windows\3-2D.deps.json
+C:\Users\Melly\source\repos\3-2D\3-2D\bin\Debug\net6.0-windows\3-2D.runtimeconfig.json
+C:\Users\Melly\source\repos\3-2D\3-2D\bin\Debug\net6.0-windows\3-2D.dll
+C:\Users\Melly\source\repos\3-2D\3-2D\bin\Debug\net6.0-windows\3-2D.pdb
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\_3_2D.Form1.resources
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.AssemblyInfoInputs.cache
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.AssemblyInfo.cs
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.dll
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\refint\3-2D.dll
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.pdb
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\3-2D.genruntimeconfig.cache
+C:\Users\Melly\source\repos\3-2D\3-2D\obj\Debug\net6.0-windows\ref\3-2D.dll

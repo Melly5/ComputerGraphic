@@ -1,0 +1,17 @@
+C:\Users\Melly\source\repos\3labCG\3labCG\bin\Debug\net6.0-windows\3labCG.exe
+C:\Users\Melly\source\repos\3labCG\3labCG\bin\Debug\net6.0-windows\3labCG.deps.json
+C:\Users\Melly\source\repos\3labCG\3labCG\bin\Debug\net6.0-windows\3labCG.runtimeconfig.json
+C:\Users\Melly\source\repos\3labCG\3labCG\bin\Debug\net6.0-windows\3labCG.dll
+C:\Users\Melly\source\repos\3labCG\3labCG\bin\Debug\net6.0-windows\3labCG.pdb
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\_3labCG.Form1.resources
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.AssemblyInfoInputs.cache
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.AssemblyInfo.cs
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.dll
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\refint\3labCG.dll
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.pdb
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\3labCG.genruntimeconfig.cache
+C:\Users\Melly\source\repos\3labCG\3labCG\obj\Debug\net6.0-windows\ref\3labCG.dll

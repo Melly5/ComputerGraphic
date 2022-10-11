@@ -1,0 +1,17 @@
+C:\Users\Melly\source\repos\2labCG\2labCG\bin\Debug\net6.0-windows\2labCG.exe
+C:\Users\Melly\source\repos\2labCG\2labCG\bin\Debug\net6.0-windows\2labCG.deps.json
+C:\Users\Melly\source\repos\2labCG\2labCG\bin\Debug\net6.0-windows\2labCG.runtimeconfig.json
+C:\Users\Melly\source\repos\2labCG\2labCG\bin\Debug\net6.0-windows\2labCG.dll
+C:\Users\Melly\source\repos\2labCG\2labCG\bin\Debug\net6.0-windows\2labCG.pdb
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.csproj.AssemblyReference.cache
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\_2labCG.Form1.resources
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.csproj.GenerateResource.cache
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.AssemblyInfoInputs.cache
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.AssemblyInfo.cs
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.csproj.CoreCompileInputs.cache
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.dll
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\refint\2labCG.dll
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.pdb
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\2labCG.genruntimeconfig.cache
+C:\Users\Melly\source\repos\2labCG\2labCG\obj\Debug\net6.0-windows\ref\2labCG.dll
